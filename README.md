@@ -1,6 +1,10 @@
 #About
 This is an attempt at portfolio optimisation based on ETFs.
 
+#Resources
+
+- ["Python for Finance Portfolio Optimization" at Medium](https://randerson112358.medium.com/python-for-finance-portfolio-optimization-66882498847)
+
 #To-dos:
 
 - basic portfolio visualisation and optimisation
