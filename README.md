@@ -10,6 +10,8 @@ The list of pre-selected ETFs as of now is:
 - SPDR MSCI Europe Energy UCITS ETF (`STNX.SW`), traded in CHF
 - WisdomTree Physical Precious Metals (`PHPM.L`), traded in USD
 - SPDR S&P US Dividend Aristocrats UCITS ETF (`SPYD.DE`), traded in EUR
+- Amundi MSCI Emerging Markets (`AEEM.PA`), traded in EUR
+- Xtrackers MSCI World Health Care UCITS ETF (`XDWH.L`), traded in USD
 
 # Learnings
 - "Adjusted close" and "close" price are one and the same for me, as long as I am onlu using accumulative ETFs.
