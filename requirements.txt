@@ -1,3 +1,4 @@
+ipynb==0.5.1
 ipykernel==6.19.4
 pandas==1.5.2
 seaborn==0.12.1
