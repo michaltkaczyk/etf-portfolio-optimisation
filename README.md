@@ -28,3 +28,5 @@ The list of pre-selected ETFs as of now is:
 - ~~translate all currencies to PLN~~
 - ~~introduce the notion of transaction costs when buying new ETFs (price of a single ETF)~~
 - expand the notion of transaction costs - fees, money already allocated
+- draw the efficient frontier
+- automate loading of the data
