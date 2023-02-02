@@ -19,6 +19,11 @@ The list of pre-selected ETFs as of now is:
 # Resources
 - ["Python for Finance Portfolio Optimization" at Medium](https://randerson112358.medium.com/python-for-finance-portfolio-optimization-66882498847)
 - [Yahoo Finance](https://finance.yahoo.com/)
+- ["Simulating thousands of random portfolios to illustrate the Efficient Frontier using Python"](https://www.interviewqs.com/blog/efficient-frontier)
+
+## Interesting comments
+- [Dirichlet distribution comment](https://stackoverflow.com/a/18662466)
+- [Differences between random values from uniform distribution](https://stackoverflow.com/a/2640079)
 
 # To-do's:
 - ~~basic portfolio visualisation and optimisation~~
@@ -28,5 +33,5 @@ The list of pre-selected ETFs as of now is:
 - ~~translate all currencies to PLN~~
 - ~~introduce the notion of transaction costs when buying new ETFs (price of a single ETF)~~
 - expand the notion of transaction costs - fees, money already allocated
-- draw the efficient frontier
+- ~~draw the efficient frontier~~
 - automate loading of the data
