@@ -2,3 +2,6 @@
 venv/
 
 .vscode/
+
+# Folder with private notes
+private-notes/
