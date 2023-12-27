@@ -1,8 +1,12 @@
 # About
 This is an attempt at portfolio optimisation based on ETFs.
 
+# Requirements
+
+* Python (3.8.10)
+
 # ETF pre-selection
-I selected ETFs which are available on my local platform (mBank) and are accumulative (in order ot avoid having to include profit information in tax form).
+I selected ETFs which are available on my local platform (mBank) and are accumulative (in order to avoid having to include profit information in tax form).
 
 The list of pre-selected ETFs as of now is:
 - iShares Physical Gold ETC (`SGLN.L`), traded in GBP
