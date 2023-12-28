@@ -21,6 +21,7 @@ The list of pre-selected ETFs as of now is:
 - SPDR S&P US Dividend Aristocrats UCITS ETF (`SPYD.DE`), traded in EUR
 - Amundi MSCI Emerging Markets (`AEEM.PA`), traded in EUR
 - Xtrackers MSCI World Health Care UCITS ETF (`XDWH.L`), traded in USD
+- WisdomTree Brent Crude Oil (`BRNT.L`), traded in USD
 
 ## Learnings
 
