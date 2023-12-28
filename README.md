@@ -15,13 +15,14 @@ I selected ETFs which are available on my local platform (mBank) and are accumul
 The list of pre-selected ETFs as of now is:
 
 - iShares Physical Gold ETC (`SGLN.L`), traded in GBP
-- iShares Core MSCI World UCITS ETF USD (Acc), (`SWDA.L`) traded in GBP
+- iShares Core MSCI World UCITS ETF USD (Acc), (`SWDA.L`), traded in GBP
 - SPDR MSCI Europe Energy UCITS ETF (`STNX.SW`), traded in CHF
 - WisdomTree Physical Precious Metals (`PHPM.L`), traded in USD
 - SPDR S&P US Dividend Aristocrats UCITS ETF (`SPYD.DE`), traded in EUR
 - Amundi MSCI Emerging Markets (`AEEM.PA`), traded in EUR
 - Xtrackers MSCI World Health Care UCITS ETF (`XDWH.L`), traded in USD
 - WisdomTree Brent Crude Oil (`BRNT.L`), traded in USD
+- Invesco Technology S&P US Select Sector UCITS ETF (`XLKQ.L`), traded in GBP
 
 ## Learnings
 
