@@ -20,9 +20,12 @@ The list of pre-selected ETFs as of now is:
 - WisdomTree Physical Precious Metals (`PHPM.L`), traded in USD
 - SPDR S&P US Dividend Aristocrats UCITS ETF (`SPYD.DE`), traded in EUR
 - Amundi MSCI Emerging Markets (`AEEM.PA`), traded in EUR
-- Xtrackers MSCI World Health Care UCITS ETF (`XDWH.L`), traded in USD
+- Xtrackers MSCI World Health Care UCITS ETF (`XDWH.DE`), traded in EUR
 - WisdomTree Brent Crude Oil (`BRNT.L`), traded in USD
 - Invesco Technology S&P US Select Sector UCITS ETF (`XLKQ.L`), traded in GBP
+- WisdomTree Nickel (`NICK.L`), traded in USD
+- WisdomTree Copper (`COPA.L`), traded in USD
+- WisdomTree Industrial Metals (`AIGI.L`), traded in USD
 
 ## Learnings
 
